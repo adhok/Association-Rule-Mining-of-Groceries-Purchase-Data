@@ -1,3 +1,4 @@
+#Apriori Algorithm
 The apriori algorithm employs a simple apriori belief as guideline for 
 reducing the association rule search space; all subsets of frequent itemsets
 must also be frequent. The algorithm uses statistical measures of an itemset's
@@ -10,4 +11,7 @@ number of itemsets. A rule's confidence is a measurement of its predictive
 power/accuracy. It is defined as the support of the itemset containing both X and Y
 divided by the support of the itemset containing only X
 
-
+# Support Level for Each Itemset
+![alt tag](https://github.com/adhok/Association-Rule-Mining-of-Groceries-Purchase-Data/support_level_each.png)
+#Visualization Rules
+![alt tag](https://github.com/adhok/Association-Rule-Mining-of-Groceries-Purchase-Data/Visualization_Rules.png)
